@@ -36,6 +36,8 @@ src/
 | `Invitado` | Asociación | `Podcast` |
 | `Cancion` | Composición | `Concierto` |
 
+![Diagrama de clases](docs/diagrama_clases.png)
+
 ## Funcionalidades
 
 - Registrar películas, series, documentales, podcasts y conciertos.
